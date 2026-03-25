@@ -1,0 +1,1 @@
+This is a sample for git-test-2.
